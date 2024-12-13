@@ -8,3 +8,5 @@ O sistema apresenta 4 diferentes estados:
 - Sinal verde aceso e todos os outros apagados - "state = 1 && nightMode != true"
 - Sinal amarelo aceso e todos os outros apagados - "state = 2 && nightMode != true"
 - Sinal amarelo pisca quando o modo noturno está aceso. Ele mantem os demais leds apagados - "nightMode = true"
+
+Você pode verificar cada uma das imagens no repositório para constatar as prints de cada estado
